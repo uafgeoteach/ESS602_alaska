@@ -7,7 +7,7 @@ contact: Carl Tape
 
 The repository can be obtained from GitHub with this command:
 ```
-git clone --depth=1 https://github.com/uafgeoteach/ESS602_alaska.git
+git clone https://github.com/uafgeoteach/ESS602_alaska.git
 ```
 
 This repository is aimed at introducing students to Python and running notebooks in Colab.
